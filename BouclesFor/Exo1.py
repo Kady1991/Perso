@@ -1,7 +1,7 @@
 # Calcul du prix avec réduction
 
 print("")
-prixArticle = int(input("entrez le prix d'un aricle : "))
+prixArticle = int(input("Entrez le prix d'un aricle : "))
 print("")
 
 if prixArticle > 100 :
